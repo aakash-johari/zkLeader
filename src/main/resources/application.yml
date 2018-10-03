@@ -1,0 +1,5 @@
+server:
+  port: 12345
+
+zookeeper:
+  connectionString: 192.168.1.10:2181
